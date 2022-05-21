@@ -1,0 +1,1 @@
+(()=>{"use strict";!function(c=0){const s=document.querySelectorAll(".slide");s[c].classList.add("active");for(const c of s)c.addEventListener("click",(()=>{s.forEach((c=>{c.classList.remove("active")})),c.classList.add("active")}))}(2)})();
