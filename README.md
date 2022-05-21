@@ -1,3 +1,3 @@
 # Image-Slider1_JS
 
-npm run start
+https://antoninavechorko.github.io/Image-Slider1_JS/
